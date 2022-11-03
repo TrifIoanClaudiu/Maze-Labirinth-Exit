@@ -1,0 +1,8 @@
+C:\Ionut\Career + College\C#\Maze-Labirinth\bin\Debug\Maze-Labirinth.exe.config
+C:\Ionut\Career + College\C#\Maze-Labirinth\bin\Debug\Maze-Labirinth.exe
+C:\Ionut\Career + College\C#\Maze-Labirinth\bin\Debug\Maze-Labirinth.pdb
+C:\Ionut\Career + College\C#\Maze-Labirinth\obj\Debug\Maze-Labirinth.csproj.AssemblyReference.cache
+C:\Ionut\Career + College\C#\Maze-Labirinth\obj\Debug\Maze-Labirinth.csproj.SuggestedBindingRedirects.cache
+C:\Ionut\Career + College\C#\Maze-Labirinth\obj\Debug\Maze-Labirinth.csproj.CoreCompileInputs.cache
+C:\Ionut\Career + College\C#\Maze-Labirinth\obj\Debug\Maze-Labirinth.exe
+C:\Ionut\Career + College\C#\Maze-Labirinth\obj\Debug\Maze-Labirinth.pdb
